@@ -7,7 +7,7 @@ Since I didn't have a dataset of mathematical symbols I wanted to explore artifi
 
 ![image](https://user-images.githubusercontent.com/23265032/132756835-afd9afc5-a1f4-4a05-a79c-1e864115d0a3.png)
 
-At the end I present a few random examples from data. Should there be a need for a simple calculator that reads digits from MNIST dataset this one performs pretty OK and easily expandable by changing and carefully training any model in the future.
+At the end I present a few random examples from data. Should there be a need for a simple calculator that reads digits from MNIST dataset this one performs pretty OK and is easily expandable by changing and carefully training any model in the future.
 
 ![image](https://user-images.githubusercontent.com/23265032/132756970-e1e3da5d-6e15-4a02-bb87-42917e9965f2.png)
 
